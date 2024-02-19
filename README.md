@@ -7,7 +7,7 @@ _**Note:** that these solutions are provided for the Lab (subject), not the theo
 
 ### Resources:
 
-The UML Diagrams used here are created by [StarUML](https://staruml.io/) software. The Files ending with `.mdj` extension are the Source Files for the UML Diagrams and can be edited using the StarUML Software.
+The UML Diagrams used here are created by [StarUML](https://staruml.io/) software. The Files ending with `.mdj` extension are the Source Files for the UML Diagrams and can be edited using the StarUML Software and the Files ending with `.java` extension is Java language code which can be used, if Java is installed on your Machine. I am using the [VSCode Java Coding pack](https://code.visualstudio.com/docs/java/java-tutorial) on Windows.
 
 ### Contributing:
 If you notice any errors in the solutions or would like to suggest improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
