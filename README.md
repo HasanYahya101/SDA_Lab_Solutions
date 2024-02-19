@@ -5,6 +5,10 @@ This repository contains the solutions to the SDA Lab questions from my lectures
 
 _**Note:** that these solutions are provided for the Lab (subject), not the theory subject. Therefore, they may not be useful for the theory subject._
 
+### Resources:
+
+The UML Diagrams used here are created by [StarUML](https://staruml.io/) software. The Files ending with `.mdj` extension are the Source Files for the UML Diagrams and can be edited using the StarUML Software.
+
 ### Contributing:
 If you notice any errors in the solutions or would like to suggest improvements, please feel free to open an issue or submit a pull request. Contributions are always welcome!
 
