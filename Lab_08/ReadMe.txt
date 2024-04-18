@@ -1,4 +1,4 @@
-I did this in VSCode instead of Netbeans. Also, this code is used for the connection:
+Question 1 was later announced to not be needed to be done. I did this in VSCode instead of Netbeans. Also, this code is used for the connection:
 
 public class l227971_Lab08_q3 {
     public static void main(String[] args) {
